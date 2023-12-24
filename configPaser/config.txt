@@ -1,0 +1,16 @@
+#英雄ID  注释
+heroId:2023001
+#英雄姓名
+heroName:jiansheng
+#英雄攻击力
+heroAtk:999999
+#英雄防御力
+heroDef:1000
+#英雄简介
+heroInfo:无敌
+
+
+
+
+aaa
+bbbsadfassdfsaf
